@@ -1,0 +1,17 @@
+{
+  "name": "the-brightest-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "The very brightest syntax you have ever seen",
+  "keywords": [
+    "syntax",
+    "theme",
+    "very-bright",
+    "brightest"
+  ],
+  "repository": "https://github.com/StevenCopeland/the-brightest-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
